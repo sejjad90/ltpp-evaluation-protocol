@@ -1,0 +1,5 @@
+key,value,source
+vws_sections,917,"SDR39 CLM_SITE_VWS_LINK / ANALYSIS_IRI + INV_AGE + nonmissing INV_LAYER, nonnegative age"
+vws_stations,896,"SDR39 CLM_SITE_VWS_LINK / ANALYSIS_IRI + INV_AGE + nonmissing INV_LAYER, nonnegative age"
+restricted_rows,4719,"SDR39 CLM_SITE_VWS_LINK / ANALYSIS_IRI + INV_AGE + nonmissing INV_LAYER, nonnegative age"
+restricted_sections,703,"SDR39 CLM_SITE_VWS_LINK / ANALYSIS_IRI + INV_AGE + nonmissing INV_LAYER, nonnegative age"

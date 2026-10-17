@@ -1,0 +1,927 @@
+{
+  "10.1214/23-aos2276": {
+    "authors": [
+      "Barber, R.F.",
+      "Candès, E.J.",
+      "Ramdas, A.",
+      "Tibshirani, R.J."
+    ],
+    "year": 2023,
+    "title": "Conformal prediction beyond exchangeability",
+    "journal": "The Annals of Statistics",
+    "volume": "51",
+    "issue": "2",
+    "page": "816-845",
+    "article": null,
+    "doi": "10.1214/23-aos2276"
+  },
+  "10.1023/a:1010933404324": {
+    "authors": [
+      "Breiman, L."
+    ],
+    "year": 2001,
+    "title": "Random Forests",
+    "journal": "Machine Learning",
+    "volume": "45",
+    "issue": "1",
+    "page": "5-32",
+    "article": null,
+    "doi": "10.1023/a:1010933404324"
+  },
+  "10.1145/2939672.2939785": {
+    "authors": [
+      "Chen, T.",
+      "Guestrin, C."
+    ],
+    "year": 2016,
+    "title": "XGBoost: A Scalable Tree Boosting System",
+    "journal": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "volume": "",
+    "issue": "",
+    "page": "785-794",
+    "article": null,
+    "doi": "10.1145/2939672.2939785"
+  },
+  "10.1007/s42947-025-00689-z": {
+    "authors": [
+      "Erfani, A.",
+      "Mansouri, A."
+    ],
+    "year": 2025,
+    "title": "Uncertainty-Aware Pavement Roughness Forecasting Using Adaptive Conformal Prediction",
+    "journal": "International Journal of Pavement Research and Technology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": null,
+    "doi": "10.1007/s42947-025-00689-z"
+  },
+  "10.3390/infrastructures10070166": {
+    "authors": [
+      "Ghavami, S.",
+      "Naseri, H.",
+      "Safi Jahanshahi, F."
+    ],
+    "year": 2025,
+    "title": "Enhanced Prediction and Uncertainty Modeling of Pavement Roughness Using Machine Learning and Conformal Prediction",
+    "journal": "Infrastructures",
+    "volume": "10",
+    "issue": "7",
+    "page": "166",
+    "article": null,
+    "doi": "10.3390/infrastructures10070166"
+  },
+  "10.1080/14680629.2025.2454376": {
+    "authors": [
+      "Ghodratabadi, M.",
+      "Golroo, A.",
+      "Entezari, M.S."
+    ],
+    "year": 2025,
+    "title": "Machine learning for predicting pavement roughness and optimising maintenance",
+    "journal": "Road Materials and Pavement Design",
+    "volume": "26",
+    "issue": "10",
+    "page": "2677-2696",
+    "article": null,
+    "doi": "10.1080/14680629.2025.2454376"
+  },
+  "10.1038/s41586-024-08328-6": {
+    "authors": [
+      "Hollmann, N.",
+      "Müller, S.",
+      "Purucker, L.",
+      "Krishnakumar, A.",
+      "Körfer, M.",
+      "Hoo, S.B.",
+      "Schirrmeister, R.T.",
+      "Hutter, F."
+    ],
+    "year": 2025,
+    "title": "Accurate predictions on small data with a tabular foundation model",
+    "journal": "Nature",
+    "volume": "637",
+    "issue": "8045",
+    "page": "319-326",
+    "article": null,
+    "doi": "10.1038/s41586-024-08328-6"
+  },
+  "10.3390/su13095248": {
+    "authors": [
+      "Justo-Silva, R.",
+      "Ferreira, A.",
+      "Flintsch, G."
+    ],
+    "year": 2021,
+    "title": "Review on Machine Learning Techniques for Developing Pavement Performance Prediction Models",
+    "journal": "Sustainability",
+    "volume": "13",
+    "issue": "9",
+    "page": "5248",
+    "article": null,
+    "doi": "10.3390/su13095248"
+  },
+  "10.1016/j.patter.2023.100804": {
+    "authors": [
+      "Kapoor, S.",
+      "Narayanan, A."
+    ],
+    "year": 2023,
+    "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+    "journal": "Patterns",
+    "volume": "4",
+    "issue": "9",
+    "page": "100804",
+    "article": "100804",
+    "doi": "10.1016/j.patter.2023.100804"
+  },
+  "10.1080/01621459.2017.1307116": {
+    "authors": [
+      "Lei, J.",
+      "G’Sell, M.",
+      "Rinaldo, A.",
+      "Tibshirani, R.J.",
+      "Wasserman, L."
+    ],
+    "year": 2018,
+    "title": "Distribution-Free Predictive Inference for Regression",
+    "journal": "Journal of the American Statistical Association",
+    "volume": "113",
+    "issue": "523",
+    "page": "1094-1111",
+    "article": null,
+    "doi": "10.1080/01621459.2017.1307116"
+  },
+  "10.1080/10298436.2025.2555992": {
+    "authors": [
+      "Oguntoye, K.S.",
+      "Ceylan, H.",
+      "Kim, S.",
+      "Gulmezoglu, B.",
+      "Sourav, M.A.A.",
+      "Mo, Y.L."
+    ],
+    "year": 2025,
+    "title": "Maintenance record-enriched machine learning model for pavement international roughness index prediction",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "26",
+    "issue": "1",
+    "page": "2555992",
+    "article": "2555992",
+    "doi": "10.1080/10298436.2025.2555992"
+  },
+  "10.3390/buildings16071358": {
+    "authors": [
+      "Qin, L.",
+      "Liu, T.",
+      "Sun, Q.",
+      "Tang, M."
+    ],
+    "year": 2026,
+    "title": "An Interpretable Pretrained Tabular Modeling Framework for Predicting IRI Across Multiple Pavement Structural Configurations",
+    "journal": "Buildings",
+    "volume": "16",
+    "issue": "7",
+    "page": "1358",
+    "article": null,
+    "doi": "10.3390/buildings16071358"
+  },
+  "10.3390/infrastructures8120170": {
+    "authors": [
+      "Tamagusko, T.",
+      "Ferreira, A."
+    ],
+    "year": 2023,
+    "title": "Machine Learning for Prediction of the International Roughness Index on Flexible Pavements: A Review, Challenges, and Future Directions",
+    "journal": "Infrastructures",
+    "volume": "8",
+    "issue": "12",
+    "page": "170",
+    "article": null,
+    "doi": "10.3390/infrastructures8120170"
+  },
+  "arxiv:2605.13986": {
+    "authors": [
+      "Grinsztajn, L.",
+      "Flöge, K.",
+      "Key, O.",
+      "Birkel, F.",
+      "Jund, P.",
+      "Roof, B.",
+      "Manium, M.",
+      "Hoo, S.B.",
+      "Bühler, M.",
+      "Garg, A.",
+      "Safaric, D.",
+      "Robertson, J.",
+      "Jäger, B.",
+      "Alessi, S.",
+      "Hayler, A.",
+      "Moroshan, V.",
+      "Purucker, L.",
+      "Singer, P.",
+      "Arazi, A.",
+      "Siems, J.",
+      "Metzen, J.H.",
+      "Grab, G.",
+      "Erickson, N.",
+      "Guo, S.",
+      "Kalfon, E.",
+      "Bing, S.",
+      "Salinas, D.",
+      "Cornu, C.",
+      "Wehrhahn, L.C.",
+      "Kriuchkova, D.",
+      "Kaya, K.",
+      "Sidhoum, L.",
+      "Salmon, M.",
+      "Chen, J.",
+      "Hulsebos, M.",
+      "LeCun, Y.",
+      "Müller, S.",
+      "Schölkopf, B.",
+      "Gambhir, S.",
+      "Hollmann, N.",
+      "Hutter, F."
+    ],
+    "year": 2026,
+    "title": "TabPFN-3: Technical Report",
+    "journal": "arXiv preprint arXiv:2605.13986",
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "doi": "10.48550/arXiv.2605.13986"
+  },
+  "arxiv:1706.09516": {
+    "authors": [
+      "Prokhorenkova, L.",
+      "Gusev, G.",
+      "Vorobev, A.",
+      "Dorogush, A.V.",
+      "Gulin, A."
+    ],
+    "year": 2017,
+    "title": "CatBoost: unbiased boosting with categorical features",
+    "journal": "arXiv preprint arXiv:1706.09516",
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "doi": "10.48550/arXiv.1706.09516"
+  },
+  "neurips:lightgbm": {
+    "authors": [
+      "Ke, G.",
+      "Meng, Q.",
+      "Finley, T.",
+      "Wang, T.",
+      "Chen, W.",
+      "Ma, W.",
+      "Ye, Q.",
+      "Liu, T.-Y."
+    ],
+    "year": 2017,
+    "title": "LightGBM: A highly efficient gradient boosting decision tree",
+    "journal": "Advances in Neural Information Processing Systems",
+    "volume": "30",
+    "issue": null,
+    "page": "3146-3154",
+    "doi": null
+  },
+  "10.1016/j.conbuildmat.2022.129948": {
+    "authors": [
+      "Ehsani, M.",
+      "Hamidian, P.",
+      "Hajikarimi, P.",
+      "Moghadas Nejad, F."
+    ],
+    "year": 2023,
+    "title": "Optimized prediction models for faulting failure of Jointed Plain concrete pavement using the metaheuristic optimization algorithms",
+    "journal": "Construction and Building Materials",
+    "volume": "364",
+    "issue": "",
+    "page": "129948",
+    "doi": "10.1016/j.conbuildmat.2022.129948"
+  },
+  "10.1080/10298436.2022.2057975": {
+    "authors": [
+      "Ehsani, M.",
+      "Moghadas Nejad, F.",
+      "Hajikarimi, P."
+    ],
+    "year": 2023,
+    "title": "Developing an optimized faulting prediction model in Jointed Plain Concrete Pavement using artificial neural networks and random forest methods",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "24",
+    "issue": "2",
+    "page": "2057975",
+    "doi": "10.1080/10298436.2022.2057975"
+  },
+  "10.1080/10298436.2021.1910825": {
+    "authors": [
+      "Guo, R.",
+      "Fu, D.",
+      "Sollazzo, G."
+    ],
+    "year": 2022,
+    "title": "An ensemble learning model for asphalt pavement performance prediction based on gradient boosting decision tree",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "23",
+    "issue": "10",
+    "page": "3633-3646",
+    "doi": "10.1080/10298436.2021.1910825"
+  },
+  "10.1080/10298436.2020.1867854": {
+    "authors": [
+      "Guo, F.",
+      "Zhao, X.",
+      "Gregory, J.",
+      "Kirchain, R."
+    ],
+    "year": 2022,
+    "title": "A weighted multi-output neural network model for the prediction of rigid pavement deterioration",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "23",
+    "issue": "8",
+    "page": "2631-2643",
+    "doi": "10.1080/10298436.2020.1867854"
+  },
+  "10.1080/15732479.2023.2258498": {
+    "authors": [
+      "Zhao, J.",
+      "Wang, H."
+    ],
+    "year": 2025,
+    "title": "Machine learning based pavement performance prediction for data-driven decision of asphalt pavement overlay",
+    "journal": "Structure and Infrastructure Engineering",
+    "volume": "21",
+    "issue": "6",
+    "page": "940-955",
+    "doi": "10.1080/15732479.2023.2258498"
+  },
+  "10.1080/10298436.2022.2076854": {
+    "authors": [
+      "Xiao, F.",
+      "Chen, X.",
+      "Cheng, J.",
+      "Yang, S.",
+      "Ma, Y."
+    ],
+    "year": 2023,
+    "title": "Establishment of probabilistic prediction models for pavement deterioration based on Bayesian neural network",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "24",
+    "issue": "2",
+    "page": "2076854",
+    "doi": "10.1080/10298436.2022.2076854"
+  },
+  "10.1088/1757-899x/812/1/012012": {
+    "authors": [
+      "Sati, A.S.",
+      "Abu Dabous, S.",
+      "Zeiada, W."
+    ],
+    "year": 2020,
+    "title": "Pavement Deterioration Model Using Markov Chain and International Roughness Index",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "volume": "812",
+    "issue": "1",
+    "page": "012012",
+    "doi": "10.1088/1757-899x/812/1/012012"
+  },
+  "10.1108/bepam-09-2021-0117": {
+    "authors": [
+      "Salman, B.",
+      "Gursoy, B."
+    ],
+    "year": 2022,
+    "title": "Markov chain pavement deterioration prediction models for local street networks",
+    "journal": "Built Environment Project and Asset Management",
+    "volume": "12",
+    "issue": "6",
+    "page": "853-870",
+    "doi": "10.1108/bepam-09-2021-0117"
+  },
+  "10.1016/j.cscm.2024.e03023": {
+    "authors": [
+      "Wasiq, S.",
+      "Golroo, A."
+    ],
+    "year": 2024,
+    "title": "Probabilistic pavement performance modeling using hybrid Markov Chain: A case study in Afghanistan",
+    "journal": "Case Studies in Construction Materials",
+    "volume": "20",
+    "issue": "",
+    "page": "e03023",
+    "doi": "10.1016/j.cscm.2024.e03023"
+  },
+  "10.7250/bjrbe.2023-18.609": {
+    "authors": [
+      "Paplauskas, P.",
+      "Vaitkus, A.",
+      "Simanavičienė, R."
+    ],
+    "year": 2023,
+    "title": "Road Pavement Condition Index Deterioration Model for Network-Level Analysis of National Road Network Based on Pavement Condition Scanning Data",
+    "journal": "The Baltic Journal of Road and Bridge Engineering",
+    "volume": "18",
+    "issue": "3",
+    "page": "70-101",
+    "doi": "10.7250/bjrbe.2023-18.609"
+  },
+  "10.1680/jinam.22.00031": {
+    "authors": [
+      "Bashar, M.Z.",
+      "Torres-Machi, C."
+    ],
+    "year": 2024,
+    "title": "Machine learning to enhance the management of highway pavements and bridges",
+    "journal": "Infrastructure Asset Management",
+    "volume": "11",
+    "issue": "3",
+    "page": "119-127",
+    "doi": "10.1680/jinam.22.00031"
+  },
+  "10.1080/10298436.2024.2322529": {
+    "authors": [
+      "Clemmensen, A.",
+      "Wang, H."
+    ],
+    "year": 2024,
+    "title": "Airfield pavement condition prediction with machine learning models for life-cycle cost analysis",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "25",
+    "issue": "1",
+    "page": "2322529",
+    "doi": "10.1080/10298436.2024.2322529"
+  },
+  "10.1080/10298436.2026.2624565": {
+    "authors": [
+      "Talaghat, M.A.",
+      "Golroo, A.",
+      "Shahhosseini, V.",
+      "Rasti, M.",
+      "Daneshvar, A.",
+      "Moghadas Nejad, F."
+    ],
+    "year": 2026,
+    "title": "Hybrid MLP–LSTM deep predictive modeling of pavement distress severity and density and condition indices",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "27",
+    "issue": "1",
+    "page": "2624565",
+    "doi": "10.1080/10298436.2026.2624565"
+  },
+  "10.1177/00368504261450035": {
+    "authors": [
+      "Xu, W.",
+      "Yang, Z.",
+      "Ji, Y.",
+      "Huang, P."
+    ],
+    "year": 2026,
+    "title": "Pavement condition prediction under small-sample conditions using a particle swarm optimization-based support vector machine",
+    "journal": "Science Progress",
+    "volume": "109",
+    "issue": "2",
+    "page": "00368504261450035",
+    "doi": "10.1177/00368504261450035"
+  },
+  "10.1016/j.cacaie.2026.100091": {
+    "authors": [
+      "Kim, J.H.",
+      "Song, G.G.",
+      "Seo, Y."
+    ],
+    "year": 2026,
+    "title": "A maintenance-aware machine learning framework for network-level highway pavement condition prediction",
+    "journal": "Computer-Aided Civil and Infrastructure Engineering",
+    "volume": "47",
+    "issue": "",
+    "page": "100091",
+    "doi": "10.1016/j.cacaie.2026.100091"
+  },
+  "10.1007/s42947-025-00510-x": {
+    "authors": [
+      "Pasupunuri, S.K.",
+      "Thom, N.",
+      "Li, L."
+    ],
+    "year": 2026,
+    "title": "Development of a High-Performance Extreme Gradient Boost Model for Predicting Faulting in Jointed Plain Concrete Pavements",
+    "journal": "International Journal of Pavement Research and Technology",
+    "volume": "19",
+    "issue": "5",
+    "page": "1097-1112",
+    "doi": "10.1007/s42947-025-00510-x"
+  },
+  "10.1007/s42947-025-00675-5": {
+    "authors": [
+      "Munna, M.R.",
+      "Chatterjee, K.",
+      "Li, J.Q."
+    ],
+    "year": 2025,
+    "title": "Evaluating Pavement Surface Texture with LTPP Database",
+    "journal": "International Journal of Pavement Research and Technology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "doi": "10.1007/s42947-025-00675-5"
+  },
+  "10.18400/tekderg.476606": {
+    "authors": [
+      "RADWAN, M.",
+      "ABO-HASHEMA, M.",
+      "HASHEM, M.",
+      "FAHEEM, H."
+    ],
+    "year": 2020,
+    "title": "Modeling Pavement Performance Based on LTPP Database for Flexible Pavements",
+    "journal": "Teknik Dergi",
+    "volume": "31",
+    "issue": "4",
+    "page": "10127-10146",
+    "doi": "10.18400/tekderg.476606"
+  },
+  "10.1080/10298436.2019.1578882": {
+    "authors": [
+      "Galvis Arce, O.D.",
+      "Zhang, Z."
+    ],
+    "year": 2021,
+    "title": "Skid resistance deterioration model at the network level using Markov chains",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "22",
+    "issue": "1",
+    "page": "118-126",
+    "doi": "10.1080/10298436.2019.1578882"
+  },
+  "10.1080/14680629.2021.2019091": {
+    "authors": [
+      "Jooste, F.J.",
+      "Costello, S.B.",
+      "Rainsford, S."
+    ],
+    "year": 2023,
+    "title": "Prediction of network level pavement treatment types using multi-classification machine learning algorithms",
+    "journal": "Road Materials and Pavement Design",
+    "volume": "24",
+    "issue": "2",
+    "page": "410-426",
+    "doi": "10.1080/14680629.2021.2019091"
+  },
+  "10.1080/10298436.2016.1240562": {
+    "authors": [
+      "Mohammed, B.",
+      "Hassan, R.",
+      "Alaswadko, N."
+    ],
+    "year": 2018,
+    "title": "The effect of traffic data source on deterioration rates of heavy-duty flexible pavements",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "19",
+    "issue": "12",
+    "page": "1096-1110",
+    "doi": "10.1080/10298436.2016.1240562"
+  },
+  "10.1007/bf03325749": {
+    "authors": [
+      "Li, Q.",
+      "Xiao, D.X.",
+      "Wang, K.C.P.",
+      "Hall, K.D.",
+      "Qiu, Y."
+    ],
+    "year": 2011,
+    "title": "Mechanistic-empirical pavement design guide (MEPDG): a bird’s-eye view",
+    "journal": "Journal of Modern Transportation",
+    "volume": "19",
+    "issue": "2",
+    "page": "114-133",
+    "doi": "10.1007/bf03325749"
+  },
+  "10.1061/(asce)te.1943-5436.0000328": {
+    "authors": [
+      "Caliendo, C."
+    ],
+    "year": 2012,
+    "title": "Local Calibration and Implementation of the Mechanistic-Empirical Pavement Design Guide for Flexible Pavement Design",
+    "journal": "Journal of Transportation Engineering",
+    "volume": "138",
+    "issue": "3",
+    "page": "348-360",
+    "doi": "10.1061/(asce)te.1943-5436.0000328"
+  },
+  "10.1061/(asce)te.1943-5436.0000704": {
+    "authors": [
+      "Kim, S.",
+      "Ceylan, H.",
+      "Ma, D.",
+      "Gopalakrishnan, K."
+    ],
+    "year": 2014,
+    "title": "Calibration of Pavement ME Design and Mechanistic-Empirical Pavement Design Guide Performance Prediction Models for Iowa Pavement Systems",
+    "journal": "Journal of Transportation Engineering",
+    "volume": "140",
+    "issue": "10",
+    "page": "04014052",
+    "doi": "10.1061/(asce)te.1943-5436.0000704"
+  },
+  "10.1080/10298436.2011.618535": {
+    "authors": [
+      "Santos, J.",
+      "Ferreira, A."
+    ],
+    "year": 2013,
+    "title": "Life-cycle cost analysis system for pavement management at project level",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "14",
+    "issue": "1",
+    "page": "71-84",
+    "doi": "10.1080/10298436.2011.618535"
+  },
+  "10.1061/(asce)is.1943-555x.0000478": {
+    "authors": [
+      "Múčka, P."
+    ],
+    "year": 2019,
+    "title": "Influence of Profile Specification on International Roughness Index",
+    "journal": "Journal of Infrastructure Systems",
+    "volume": "25",
+    "issue": "2",
+    "page": "04019005",
+    "doi": "10.1061/(asce)is.1943-555x.0000478"
+  },
+  "10.1520/jte12126j": {
+    "authors": [
+      "Divinsky, M."
+    ],
+    "year": 2000,
+    "title": "Repeatability Analysis of Road Roughness Measurements",
+    "journal": "Journal of Testing and Evaluation",
+    "volume": "28",
+    "issue": "5",
+    "page": "378-394",
+    "doi": "10.1520/jte12126j"
+  },
+  "10.1093/iti/liac019": {
+    "authors": [
+      "Xin, C.",
+      "Yin, H.",
+      "Wang, R.",
+      "Rong, Z."
+    ],
+    "year": 2022,
+    "title": "Forecast of post-overlay flexible pavement roughness progression: a random coefficient linear regression with autocorrelation model",
+    "journal": "Intelligent Transportation Infrastructure",
+    "volume": "1",
+    "issue": "",
+    "page": "liac019",
+    "doi": "10.1093/iti/liac019"
+  },
+  "10.1520/jte20250080": {
+    "authors": [
+      "Ji, J.",
+      "Xu, Y.",
+      "Zheng, W.",
+      "Zhang, R.",
+      "Ling, M.",
+      "Cui, Y."
+    ],
+    "year": 2026,
+    "title": "Prediction of Airport Pavement Roughness Using Random Forest Model Based on Hyperparameter Optimization Algorithms",
+    "journal": "Journal of Testing and Evaluation",
+    "volume": "54",
+    "issue": "3",
+    "page": "e20250080",
+    "doi": "10.1520/jte20250080"
+  },
+  "10.33593/iccp.v10i1.376": {
+    "authors": [
+      "Haider, S.W.",
+      "Buch, N.",
+      "Chatti, K."
+    ],
+    "year": 2025,
+    "title": "Effect of Traffic Load Characterization (ESAL versus Axle load Spectra) on Rigid Pavement Performance",
+    "journal": "Proceedings of the International Conference on Concrete Pavements",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "doi": "10.33593/iccp.v10i1.376"
+  },
+  "10.1080/10298436.2023.2255359": {
+    "authors": [
+      "Fakhri, S.A.",
+      "Satari Abrovi, M.",
+      "Zakeri, H.",
+      "Safdarinezhad, A.",
+      "Fakhri, A."
+    ],
+    "year": 2023,
+    "title": "Pavement crack detection through a deep-learned asymmetric encoder-decoder convolutional neural network",
+    "journal": "International Journal of Pavement Engineering",
+    "volume": "24",
+    "issue": "1",
+    "page": "2255359",
+    "doi": "10.1080/10298436.2023.2255359"
+  },
+  "10.1016/j.engappai.2025.110227": {
+    "authors": [
+      "Song, Q.",
+      "Tian, J."
+    ],
+    "year": 2025,
+    "title": "Hybrid graph convolutional and deep convolutional networks for enhanced pavement crack detection",
+    "journal": "Engineering Applications of Artificial Intelligence",
+    "volume": "145",
+    "issue": "",
+    "page": "110227",
+    "doi": "10.1016/j.engappai.2025.110227"
+  },
+  "10.1061/jbenf2.beeng-6012": {
+    "authors": [
+      "Hu, X.",
+      "Assaad, R.H."
+    ],
+    "year": 2024,
+    "title": "Improving the Predictive Analytics of Machine-Learning Pipelines for Bridge Infrastructure Asset Management Applications: An Upstream Data Workflow to Address Data Quality Issues in the National Bridge Inventory Database",
+    "journal": "Journal of Bridge Engineering",
+    "volume": "29",
+    "issue": "1",
+    "page": "04023103",
+    "doi": "10.1061/jbenf2.beeng-6012"
+  },
+  "10.1061/(asce)is.1943-555x.0000572": {
+    "authors": [
+      "Assaad, R.",
+      "El-adaway, I.H."
+    ],
+    "year": 2020,
+    "title": "Bridge Infrastructure Asset Management System: Comparative Computational Machine Learning Approach for Evaluating and Predicting Deck Deterioration Conditions",
+    "journal": "Journal of Infrastructure Systems",
+    "volume": "26",
+    "issue": "3",
+    "page": "04020032",
+    "doi": "10.1061/(asce)is.1943-555x.0000572"
+  },
+  "10.1111/ecog.02881": {
+    "authors": [
+      "Roberts, D.R.",
+      "Bahn, V.",
+      "Ciuti, S.",
+      "Boyce, M.S.",
+      "Elith, J.",
+      "Guillera‐Arroita, G.",
+      "Hauenstein, S.",
+      "Lahoz‐Monfort, J.J.",
+      "Schröder, B.",
+      "Thuiller, W.",
+      "Warton, D.I.",
+      "Wintle, B.A.",
+      "Hartig, F.",
+      "Dormann, C.F."
+    ],
+    "year": 2017,
+    "title": "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+    "journal": "Ecography",
+    "volume": "40",
+    "issue": "8",
+    "page": "913-929",
+    "doi": "10.1111/ecog.02881"
+  },
+  "10.1016/j.ecolmodel.2019.108815": {
+    "authors": [
+      "Meyer, H.",
+      "Reudenbach, C.",
+      "Wöllauer, S.",
+      "Nauss, T."
+    ],
+    "year": 2019,
+    "title": "Importance of spatial predictor variable selection in machine learning applications – Moving from data reproduction to spatial prediction",
+    "journal": "Ecological Modelling",
+    "volume": "411",
+    "issue": "",
+    "page": "108815",
+    "doi": "10.1016/j.ecolmodel.2019.108815"
+  },
+  "10.1186/1471-2105-7-91": {
+    "authors": [
+      "Varma, S.",
+      "Simon, R."
+    ],
+    "year": 2006,
+    "title": "Bias in error estimation when using cross-validation for model selection",
+    "journal": "BMC Bioinformatics",
+    "volume": "7",
+    "issue": "1",
+    "page": "91",
+    "doi": "10.1186/1471-2105-7-91"
+  },
+  "10.1016/j.jclinepi.2015.04.005": {
+    "authors": [
+      "Steyerberg, E.W.",
+      "Harrell, F.E."
+    ],
+    "year": 2016,
+    "title": "Prediction models need appropriate internal, internal–external, and external validation",
+    "journal": "Journal of Clinical Epidemiology",
+    "volume": "69",
+    "issue": "",
+    "page": "245-247",
+    "doi": "10.1016/j.jclinepi.2015.04.005"
+  },
+  "10.1016/j.ins.2011.12.028": {
+    "authors": [
+      "Bergmeir, C.",
+      "Benítez, J.M."
+    ],
+    "year": 2012,
+    "title": "On the use of cross-validation for time series predictor evaluation",
+    "journal": "Information Sciences",
+    "volume": "191",
+    "issue": "",
+    "page": "192-213",
+    "doi": "10.1016/j.ins.2011.12.028"
+  },
+  "10.1198/016214504000000692": {
+    "authors": [
+      "Efron, B."
+    ],
+    "year": 2004,
+    "title": "The Estimation of Prediction Error: Covariance Penalties and Cross-Validation",
+    "journal": "Journal of the American Statistical Association",
+    "volume": "99",
+    "issue": "467",
+    "page": "619-632",
+    "doi": "10.1198/016214504000000692"
+  },
+  "10.1145/3807777": {
+    "authors": [
+      "Somvanshi, S.",
+      "Das, S.",
+      "Javed, S.",
+      "Antariksa, G.",
+      "Hossain, A."
+    ],
+    "year": 2026,
+    "title": "A Survey on Tabular Data: From Tree-based Methods to Tabular Deep Learning",
+    "journal": "ACM Computing Surveys",
+    "volume": "58",
+    "issue": "16",
+    "page": "1-45",
+    "doi": "10.1145/3807777"
+  },
+  "10.1016/j.asoc.2023.110748": {
+    "authors": [
+      "Bragilovski, M.",
+      "Kapri, Z.",
+      "Rokach, L.",
+      "Levy-Tzedek, S."
+    ],
+    "year": 2023,
+    "title": "TLTD: Transfer Learning for Tabular Data",
+    "journal": "Applied Soft Computing",
+    "volume": "147",
+    "issue": "",
+    "page": "110748",
+    "doi": "10.1016/j.asoc.2023.110748"
+  },
+  "10.3390/app15137436": {
+    "authors": [
+      "Yuan, J.",
+      "Cheng, H.",
+      "Sun, L.",
+      "Cao, Y.",
+      "Yang, R.",
+      "Jin, T.",
+      "Li, M."
+    ],
+    "year": 2025,
+    "title": "Cross-Regional Pavement Temperature Prediction Using Transfer Learning and Random Forest",
+    "journal": "Applied Sciences",
+    "volume": "15",
+    "issue": "13",
+    "page": "7436",
+    "doi": "10.3390/app15137436"
+  },
+  "10.1016/j.jclinepi.2021.02.011": {
+    "authors": [
+      "Snell, K.I.E.",
+      "Archer, L.",
+      "Ensor, J.",
+      "Bonnett, L.J.",
+      "Debray, T.P.A.",
+      "Phillips, B.",
+      "Collins, G.S.",
+      "Riley, R.D."
+    ],
+    "year": 2021,
+    "title": "External validation of clinical prediction models: simulation-based sample size calculations were more reliable than rules-of-thumb",
+    "journal": "Journal of Clinical Epidemiology",
+    "volume": "135",
+    "issue": "",
+    "page": "79-89",
+    "doi": "10.1016/j.jclinepi.2021.02.011"
+  }
+}

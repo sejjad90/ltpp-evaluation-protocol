@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: >-
+  Code and results for "Effect of evaluation protocol on accuracy, model
+  ranking and uncertainty in pavement roughness prediction"
+message: >-
+  Author information is withheld while the associated manuscript is under
+  peer review. Please cite the article once published.
+type: software
+authors:
+  - name: "Author information withheld during peer review"
+license: MIT

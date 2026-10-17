@@ -1,0 +1,38 @@
+{
+  "status": "SUPERSEDED; withdrawn accuracy significance; not current evidence",
+  "source_commit": "5329dc28ac6e0fc5695daa9ff02e7c5ec619f061",
+  "source_archive": "https://doi.org/10.5281/zenodo.23427138 (v1.0.0)",
+  "limits": "Historical summary artifacts only. Exact individual historical folds, predictions and full settings were not retained; these files are not recomputed by the corrected pipeline.",
+  "files": {
+    "all_results.csv": {
+      "sha256": "fbd7f06604bafff18ebed5c474ee31095b6943ef46d09106f0b7b77e2aaee8f1",
+      "former_path": "results/all_results.csv",
+      "stage": "pre-revision legacy summary"
+    },
+    "bootstrap_ci.csv": {
+      "sha256": "decbad59c834634d2e946254c7a3a3799f30dac4481c3386375a4eaa13f169ac",
+      "former_path": "results/bootstrap_ci.csv",
+      "stage": "pre-revision legacy summary"
+    },
+    "effect_sizes.csv": {
+      "sha256": "0254c442263ccaa17e9cfd4f73061a5f3dead2574f47b65528620dfc06e47700",
+      "former_path": "results/effect_sizes.csv",
+      "stage": "pre-revision legacy summary"
+    },
+    "pre_annual_comparator_results.csv": {
+      "sha256": "4698e61aee3dbdfae9b5234a09d339dfe851ef430e898b9faa1ca58ad4f8fd0a",
+      "former_path": "results/comparator_results.csv",
+      "stage": "audited pre-annual-correction principal summary"
+    },
+    "pre_annual_tabpfn3_results.csv": {
+      "sha256": "965b35df4f2473b6fa259f4ac03eca2afaa06edf21b1e1b4900ffcc09ef86f34",
+      "former_path": "results/tabpfn3_results.csv",
+      "stage": "audited pre-annual-correction principal summary"
+    },
+    "protocol_comparison.csv": {
+      "sha256": "ba84d106a41c48e28b61e8f940b99613965f17cb38d67faab749dbdec0bef0ea",
+      "former_path": "results/protocol_comparison.csv",
+      "stage": "pre-revision legacy summary"
+    }
+  }
+}

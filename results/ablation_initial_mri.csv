@@ -1,0 +1,7 @@
+features,protocol,R2,MAE
+with initial_MRI,random (leaky),0.9109248318198665,0.10739406799154423
+with initial_MRI,section-disjoint,0.8410715903757847,0.14774005477389168
+with initial_MRI,section-disjoint + forward-in-time,0.7891292904908138,0.18174749114303712
+without initial_MRI,random (leaky),0.782951721571149,0.1828343604597597
+without initial_MRI,section-disjoint,0.49349818102748033,0.2894321834406658
+without initial_MRI,section-disjoint + forward-in-time,0.2990458780379839,0.3776484145835802

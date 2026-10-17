@@ -1,0 +1,26 @@
+model,stratum_type,stratum,n,R2,MAE
+RandomForest,climatic regime,Dry-freeze,249,0.8017929120753627,0.22233231955940608
+RandomForest,climatic regime,Dry-no-freeze,307,0.8604972526093537,0.16363688365287665
+RandomForest,climatic regime,Wet-freeze,283,0.7461810960430508,0.17532995981199653
+RandomForest,pavement family,No recorded PCC layer,306,0.8222006023873222,0.1321779656392984
+RandomForest,pavement family,Recorded PCC layer,552,0.7317364555177457,0.21206233109565376
+LightGBM,climatic regime,Dry-freeze,249,0.7900234555113073,0.23193989654796687
+LightGBM,climatic regime,Dry-no-freeze,307,0.8474849837480547,0.172844127618234
+LightGBM,climatic regime,Wet-freeze,283,0.7184395758714559,0.18554124566901162
+LightGBM,pavement family,No recorded PCC layer,306,0.7629648397614994,0.1543297075397984
+LightGBM,pavement family,Recorded PCC layer,552,0.7235772045752527,0.2141553703386226
+XGBoost,climatic regime,Dry-freeze,249,0.8219001137305925,0.20788077756538306
+XGBoost,climatic regime,Dry-no-freeze,307,0.8655463694325713,0.16914988729776936
+XGBoost,climatic regime,Wet-freeze,283,0.7597550527721283,0.18054360557342636
+XGBoost,pavement family,No recorded PCC layer,306,0.8248481674108523,0.13702838073237356
+XGBoost,pavement family,Recorded PCC layer,552,0.7535209687490764,0.20744220243466263
+CatBoost,climatic regime,Dry-freeze,249,0.7977172983258591,0.22169921250025215
+CatBoost,climatic regime,Dry-no-freeze,307,0.8528957409848767,0.1679093656406044
+CatBoost,climatic regime,Wet-freeze,283,0.7811430072069596,0.1772598600694478
+CatBoost,pavement family,No recorded PCC layer,306,0.788363361656474,0.1573161859508074
+CatBoost,pavement family,Recorded PCC layer,552,0.7564909408260065,0.20081890759009977
+TabPFN-3,climatic regime,Dry-freeze,249,0.7380624830500657,0.24940367320512227
+TabPFN-3,climatic regime,Dry-no-freeze,307,0.829482362791438,0.16878455674093504
+TabPFN-3,climatic regime,Wet-freeze,283,0.6909468522101097,0.16976347504320613
+TabPFN-3,pavement family,No recorded PCC layer,306,0.8068256800857602,0.1280125087122685
+TabPFN-3,pavement family,Recorded PCC layer,552,0.6571722199300757,0.22581332966058112

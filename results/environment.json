@@ -1,0 +1,57 @@
+{
+  "python": "3.14.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_logical": 24,
+  "cpu_model": "Intel(R) Core(TM) Ultra 9 275HX",
+  "thread_environment": {
+    "OMP_NUM_THREADS": null,
+    "MKL_NUM_THREADS": null,
+    "OPENBLAS_NUM_THREADS": null
+  },
+  "thread_policy": "RF n_jobs=-1; other estimator thread arguments unset; library defaults apply",
+  "configuration_policy": "get_params() records constructor arguments. CatBoost returns explicit settings rather than all resolved defaults; omitted settings use the pinned library defaults.",
+  "categorical_policy": "Numeric codes are supplied to all learners. Tree categorical options are not enabled; TabPFN categorical_features_indices=None retains automatic fitting-data inference.",
+  "numpy": "2.4.3",
+  "pandas": "3.0.1",
+  "scikit-learn": "1.8.0",
+  "lightgbm": "4.6.0",
+  "xgboost": "3.2.0",
+  "catboost": "1.2.10",
+  "scipy": "1.17.1",
+  "torch": "2.11.0+cpu",
+  "tabpfn": "8.1.0",
+  "shap": "0.51.0",
+  "pyarrow": "25.0.0",
+  "psutil": "7.2.2",
+  "pyodbc": "5.3.0",
+  "matplotlib": "3.10.8",
+  "python-docx": "1.2.0",
+  "ram_gb": 68.4,
+  "torch_distribution_metadata": "2.11.0",
+  "torch_cuda_runtime": null,
+  "cuda": false,
+  "cached_checkpoints": [
+    {
+      "filename": "tabpfn-v2.6-regressor-v2.6_default.ckpt",
+      "bytes": 51576286,
+      "sha256": "c855169116d79d2c957a29107ffc04464555f39aec0eef90c90390f2c2b2008b"
+    },
+    {
+      "filename": "tabpfn-v3-regressor-v3_default.ckpt",
+      "bytes": 233289807,
+      "sha256": "311ce18d97e9533d8585eaadafe040fbdd8070533209ed8696641dadc97a7301"
+    }
+  ],
+  "default_regressor_checkpoint": {
+    "resolved_version": "v3",
+    "constructor_model_path": "auto",
+    "files": [
+      {
+        "filename": "tabpfn-v3-regressor-v3_default.ckpt",
+        "cached": true,
+        "sha256": "311ce18d97e9533d8585eaadafe040fbdd8070533209ed8696641dadc97a7301"
+      }
+    ]
+  },
+  "historical_checkpoint": "No checksum was recorded for the audited historical run; current cache identity cannot establish past identity."
+}
