@@ -2,10 +2,10 @@
 
 Analytical sources and measured outputs for *Effect of evaluation protocol on
 accuracy, model ranking and uncertainty in pavement roughness prediction*.
-This local working tree contains the annual-exposure correction. Its raw-data
-tree-only path passed a clean-directory run with extracted SDR 39 modules; the
-full clean TabPFN path was not tested. Remote publication remains an author
-action. See `results/legacy/README.md`
+This tree contains the annual-exposure correction. Its raw-data tree-only path
+passed a clean-directory run with extracted SDR 39 modules; the full clean
+TabPFN path was not tested. This release is archived at
+https://doi.org/10.5281/zenodo.23442494. See `results/legacy/README.md`
 for withdrawn historical summaries; do not use them as current findings.
 
 ## Layout

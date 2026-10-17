@@ -9,3 +9,6 @@ type: software
 authors:
   - name: "Author information withheld during peer review"
 license: MIT
+doi: 10.5281/zenodo.23442494
+version: v1.0.0
+repository-code: "https://github.com/sejjad90/ltpp-evaluation-protocol"
