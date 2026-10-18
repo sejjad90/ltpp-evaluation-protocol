@@ -1,4 +1,4 @@
-"""Figures added at review: calibration, importance, residuals, ablation."""
+"""Calibration, feature-importance, residual and ablation figures."""
 
 import matplotlib
 matplotlib.use("Agg")

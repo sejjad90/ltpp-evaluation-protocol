@@ -23,8 +23,8 @@ for withdrawn historical summaries; do not use them as current findings.
 All scripts run with the repository root as working directory. The entry point
 sets it explicitly, so it can also be invoked from `code/` or another directory.
 Raw SDR 39 modules, the assembled parquet, model weights, document builders and
-exact split-membership manifests are not shipped. The private response and
-document sources are excluded. Bibliographic metadata verifies identity; it
+exact split-membership manifests are not shipped. Document-generation sources
+are excluded. Bibliographic metadata verifies identity; it
 does not certify that every cited sentence follows from every source.
 
 ## Run
@@ -126,7 +126,3 @@ Weather and PCC-layer groups describe implemented rules, not validated long-term
 climate or pure pavement-surface classifications. CPU memory is Python-traced
 allocation after construction, and per-row time is amortised batch time. These
 are not total RAM or single-request latency measurements.
-
-The old published `v1.0.0` archive is not automatically updated by edits to this
-working tree. A corrected release requires the author's separate publication
-decision after confidentiality cleanup and verification.
